@@ -28,4 +28,4 @@ gaitober" => "gato"
 
 Ingrese al siguiente enlace para poder hacer uso del encriptador de texto:
 
-https://cachimbot.github.io/challenge-oracle-decoder/
+https://challenge-oracle-decoder.netlify.app/
